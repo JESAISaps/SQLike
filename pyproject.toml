@@ -15,4 +15,3 @@ classifiers = [
 
 [project.urls]
 Homepage = "https://github.com/JESAISaps/SQLike"
-Issues = "no issues"
